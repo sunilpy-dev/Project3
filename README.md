@@ -109,11 +109,17 @@ This project shows:
 ---
 
 ### UI Design
-![Screenhots](<Screenshot 2024-12-24 215551.png>)
-![Screenhots](<Screenshot 2024-12-24 215602.png>)
-![Screenhots](<Screenshot 2024-12-24 215613.png>)
-![Screenhots](<Screenshot 2024-12-24 215623.png>)
-![Screenhots](<Screenshot 2024-12-24 215635.png>)
+<img width="1895" height="902" alt="Screenshot 2024-12-24 215551" src="https://github.com/user-attachments/assets/4309c84a-4655-47b0-99e7-7027697619fe" />
+<img width="1894" height="915" alt="Screenshot 2024-12-24 215602" src="https://github.com/user-attachments/assets/3fc6c1f1-3cf7-4f7c-a316-5fbc3e7ea691" />
+<img width="1895" height="909" alt="Screenshot 2024-12-24 215613" src="https://github.com/user-attachments/assets/4bc8488f-d964-44d4-b577-34c911b4e4a6" />
+<img width="1893" height="912" alt="Screenshot 2024-12-24 215623" src="https://github.com/user-attachments/assets/9164e746-94b2-413c-8de6-4ddba9438bf3" />
+<img width="1898" height="910" alt="Screenshot 2024-12-24 215635" src="https://github.com/user-attachments/assets/bfe9feed-301a-4136-ad7e-91465112dced" />
+
+
+
+
+
+
 
 
 
